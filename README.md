@@ -173,7 +173,7 @@ nova-b2b-platform/
 ### 1. Clone Repository & Install Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/nova-b2b-platform.git
+git clone https://github.com/sadegh-rasouli/nova-b2b-platform.git
 cd nova-b2b-platform
 
 # Install root, client, and server dependencies
